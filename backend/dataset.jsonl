@@ -1,0 +1,50 @@
+{"messages":[{"role":"user","content":"How do I track my order?"},{"role":"assistant","content":"You can track your order using the tracking link sent to your email once it's shipped."}]}
+{"messages":[{"role":"user","content":"What is your return policy?"},{"role":"assistant","content":"We accept returns within 30 days of delivery. The item must be unused and in its original packaging."}]}
+{"messages":[{"role":"user","content":"Can I change my shipping address after placing an order?"},{"role":"assistant","content":"Yes, but only within 2 hours of placing your order. Please contact support as soon as possible."}]}
+{"messages":[{"role":"user","content":"My order arrived damaged. What should I do?"},{"role":"assistant","content":"We're sorry to hear that! Please send us a photo of the damage and your order number. We'll issue a replacement or refund."}]}
+{"messages":[{"role":"user","content":"Do you offer international shipping?"},{"role":"assistant","content":"Yes, we ship to over 50 countries. Delivery times and fees vary depending on the location."}]}
+{"messages":[{"role":"user","content":"How long does standard shipping take?"},{"role":"assistant","content":"Standard shipping usually takes 5–7 business days after the order is processed."}]}
+{"messages":[{"role":"user","content":"I forgot my password. How do I reset it?"},{"role":"assistant","content":"Click 'Forgot Password' on the login page and follow the instructions to reset your password."}]}
+{"messages":[{"role":"user","content":"What payment methods are accepted?"},{"role":"assistant","content":"We accept all major credit cards, PayPal, Apple Pay, and Google Pay."}]}
+{"messages":[{"role":"user","content":"Can I cancel my order?"},{"role":"assistant","content":"Orders can be canceled within 2 hours of placing them. Please contact support immediately."}]}
+{"messages":[{"role":"user","content":"Do you offer gift wrapping?"},{"role":"assistant","content":"Yes, gift wrapping is available at checkout for a small additional fee."}]}
+{"messages":[{"role":"user","content":"I ordered the wrong size. Can I exchange it?"},{"role":"assistant","content":"Absolutely! You can exchange items within 30 days of delivery if they're unused."}]}
+{"messages":[{"role":"user","content":"Why is my tracking number not working?"},{"role":"assistant","content":"It may take up to 24 hours for tracking info to update. Please try again later."}]}
+{"messages":[{"role":"user","content":"Can I combine multiple discount codes?"},{"role":"assistant","content":"Unfortunately, only one discount code can be used per order."}]}
+{"messages":[{"role":"user","content":"Do you have physical stores?"},{"role":"assistant","content":"We are currently an online-only store and do not operate physical locations."}]}
+{"messages":[{"role":"user","content":"Is there a warranty on your products?"},{"role":"assistant","content":"Yes, we offer a 1-year warranty on all electronics and a 30-day satisfaction guarantee on apparel."}]}
+{"messages":[{"role":"user","content":"How do I apply a promo code?"},{"role":"assistant","content":"Enter your promo code in the 'Discount Code' box during checkout and click 'Apply'."}]}
+{"messages":[{"role":"user","content":"Do I need an account to order?"},{"role":"assistant","content":"No, you can check out as a guest. But creating an account gives access to order history and faster checkout."}]}
+{"messages":[{"role":"user","content":"My order says delivered but I didn’t receive it. What now?"},{"role":"assistant","content":"Please check with neighbors and contact your local courier. If still unresolved, contact us for assistance."}]}
+{"messages":[{"role":"user","content":"Can I preorder an item that's out of stock?"},{"role":"assistant","content":"If preorders are available, the option will appear on the product page. Otherwise, click 'Notify Me' for restock updates."}]}
+{"messages":[{"role":"user","content":"What happens if I miss the delivery?"},{"role":"assistant","content":"The courier will leave a notice or try again. You can also schedule a redelivery online using the tracking link."}]}
+{"messages":[{"role":"user","content":"Can I update the email on my order?"},{"role":"assistant","content":"Yes, contact support with your order number and the new email address you'd like us to use."}]}
+{"messages":[{"role":"user","content":"Do you offer bulk discounts?"},{"role":"assistant","content":"Yes! For bulk orders over 10 items, please contact our sales team for special pricing."}]}
+{"messages":[{"role":"user","content":"Do you charge sales tax?"},{"role":"assistant","content":"Sales tax is applied based on your shipping address and local regulations."}]}
+{"messages":[{"role":"user","content":"How do I know if my order was successful?"},{"role":"assistant","content":"You’ll receive a confirmation email with your order number after placing it."}]}
+{"messages":[{"role":"user","content":"Can I use store credit with a discount code?"},{"role":"assistant","content":"Yes, store credit can be used along with a single discount code at checkout."}]}
+{"messages":[{"role":"user","content":"How do I unsubscribe from emails?"},{"role":"assistant","content":"You can click the 'Unsubscribe' link at the bottom of any of our marketing emails."}]}
+{"messages":[{"role":"user","content":"Do you offer same-day delivery?"},{"role":"assistant","content":"Currently, same-day delivery is only available in select metro areas."}]}
+{"messages":[{"role":"user","content":"I received the wrong item. What should I do?"},{"role":"assistant","content":"We're sorry! Please send us a photo of the item you received and we’ll correct the mistake quickly."}]}
+{"messages":[{"role":"user","content":"How do I use store credit?"},{"role":"assistant","content":"Store credit will automatically apply at checkout if logged into your account."}]}
+{"messages":[{"role":"user","content":"Can I return an item bought on sale?"},{"role":"assistant","content":"Yes, sale items can be returned unless marked 'Final Sale' on the product page."}]}
+{"messages":[{"role":"user","content":"How do I update my billing info?"},{"role":"assistant","content":"Log into your account and go to 'Billing Information' to update your payment details."}]}
+{"messages":[{"role":"user","content":"Do you ship to PO boxes?"},{"role":"assistant","content":"Yes, we ship to PO boxes using standard shipping."}]}
+{"messages":[{"role":"user","content":"Can I delay my shipment?"},{"role":"assistant","content":"We don't offer delayed shipping options at the moment, but you can contact support to see if we can help."}]}
+{"messages":[{"role":"user","content":"Do you offer student discounts?"},{"role":"assistant","content":"Yes! Verify your student status with StudentBeans to get a 10% discount."}]}
+{"messages":[{"role":"user","content":"What should I do if my payment fails?"},{"role":"assistant","content":"Check your card details or try another payment method. If issues persist, contact your bank or our support team."}]}
+{"messages":[{"role":"user","content":"Are your products eco-friendly?"},{"role":"assistant","content":"Many of our products are made with sustainable materials. Look for the eco-friendly badge on product pages."}]}
+{"messages":[{"role":"user","content":"Can I request a gift receipt?"},{"role":"assistant","content":"Yes, choose the gift receipt option during checkout."}]}
+{"messages":[{"role":"user","content":"What is the status of my refund?"},{"role":"assistant","content":"Refunds typically take 5–7 business days after we receive your return. Check your email for updates."}]}
+{"messages":[{"role":"user","content":"Do you restock sold-out items?"},{"role":"assistant","content":"Yes, popular items are often restocked. Use the 'Notify Me' option to get alerts."}]}
+{"messages":[{"role":"user","content":"Can I save items to a wishlist?"},{"role":"assistant","content":"Yes, just click the heart icon next to any product to save it to your wishlist."}]}
+{"messages":[{"role":"user","content":"Do you price match other stores?"},{"role":"assistant","content":"We currently do not offer price matching, but keep an eye out for our frequent sales."}]}
+{"messages":[{"role":"user","content":"Can I get an invoice for my purchase?"},{"role":"assistant","content":"Yes, invoices are emailed automatically or can be downloaded from your account."}]}
+{"messages":[{"role":"user","content":"What if I entered the wrong phone number?"},{"role":"assistant","content":"Contact support with your order number and correct phone number. We’ll update it for you."}]}
+{"messages":[{"role":"user","content":"Do I need ID to receive my package?"},{"role":"assistant","content":"No, unless you're receiving restricted items. Otherwise, no ID is required."}]}
+{"messages":[{"role":"user","content":"Can I order over the phone?"},{"role":"assistant","content":"We currently only accept orders through our website."}]}
+{"messages":[{"role":"user","content":"Is my payment information secure?"},{"role":"assistant","content":"Yes, we use industry-standard encryption and secure payment gateways to protect your data."}]}
+{"messages":[{"role":"user","content":"Do you offer gift cards?"},{"role":"assistant","content":"Yes, we offer digital gift cards in various denominations. You can find them under the 'Gifts' section."}]}
+{"messages":[{"role":"user","content":"What should I do if I receive an expired product?"},{"role":"assistant","content":"We’re sorry about that! Please send us a photo and we’ll send a replacement immediately."}]}
+{"messages":[{"role":"user","content":"How do I leave a product review?"},{"role":"assistant","content":"After your purchase, you’ll receive an email invitation to leave a review."}]}
+{"messages":[{"role":"user","content":"Are there any hidden fees?"},{"role":"assistant","content":"No hidden fees! All charges are shown at checkout."}]}
